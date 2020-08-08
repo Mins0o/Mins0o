@@ -9,5 +9,9 @@
 #### 🌱 I’m currently learning C#/Python | Machine Learning and Deep Learning | Microcontrollers and architectures(and peripherals-electronics)
 
 
-[How to add a vanilla profile to your GitHub]()  
-[How to add this feature to your GitHub page.](https://github.com/anuraghazra/github-readme-stats)
+[How to add a vanilla profile to your GitHub](/CreateProfile.png)  
+  
+[How to add this feature to your GitHub page.](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md)  
+*This feature is based on an app that runs on the OP's personal server. His server runs into traffic problems sometimes.*  
+*If the `demo` is not showing up well, the server must be down. Go to the **Deploy on your own Vercel instance section** and deploy your own app to use it independently. This will require you to fork or clone the repository.*
+*I cloned the repositry and pushed it as a private repo of mine to use the source independently.*
