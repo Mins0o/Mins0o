@@ -8,8 +8,11 @@
 ---
 #### 🌱 I’m currently learning C#/Python | Machine Learning and Deep Learning | Microcontrollers and architectures(and peripherals-electronics)
 
-# Preview
-
+## Previews
+[![DoorOpener](DoorOpener.gif)](https://github.com/Mins0o/Door_Opener "Door Opener")
+[![HCI2020](HCI2020.png)](https://github.com/Mins0o/Happy_KAIST_HCI2020 "HCI website building")
+[![PANicDEMIC](Panincdemic.png)](https://github.com/Mins0o/PANicDEMIC/blob/master/Final%20Presentation.pdf "NLP project")
+[![MorseTrainer](MoreseTrainer.png)](https://github.com/Mins0o/MorseCodeTrainer)
 
 
 [How to add a vanilla profile to your GitHub](/CreateProfile.png)  
