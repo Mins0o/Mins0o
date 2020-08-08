@@ -13,7 +13,7 @@ Bachelor : [KAIST](https://kaist.ac.kr/kr/) (graduation ETA 2022.02.)
 - Major#1\: [School of Computing](https://cs.kaist.ac.kr/)
 - Major#2\: [Mechanical Engineering](http://me.kaist.ac.kr/main/main.html)
 - Minor\_\_\: [Industrial Design](https://id.kaist.ac.kr/)
-- Club\_\_\_\_\:  MicroRobot Research Club [MR.](https://mr.kaist.ac.kr/)
+- Club\_\_\_\_\:  MicroRobot Research Club [MR.](https://mr.kaist.ac.kr/) / RC Plane building club Icarus
 ---
 ## Projects  
 [![DoorOpener](https://github.com/Mins0o/Mins0o/raw/master/Previews/DoorOpener.gif)](https://github.com/Mins0o/Door_Opener "Door Opener")
