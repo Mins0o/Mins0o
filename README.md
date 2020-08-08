@@ -16,13 +16,29 @@ Bachelor : [KAIST](https://kaist.ac.kr/kr/) (graduation ETA 2022.02.)
 - Club\_\_\_\_\:  MicroRobot Research Club [MR.](https://mr.kaist.ac.kr/) / RC Plane building club-Icarus
 ---
 ## Projects  
-[![DoorOpener](https://github.com/Mins0o/Mins0o/raw/master/Previews/DoorOpener.gif)](https://github.com/Mins0o/Door_Opener "Door Opener")
-[![HCI2020](https://github.com/Mins0o/Mins0o/raw/master/Previews/HCI2020.png)](https://github.com/Mins0o/Happy_KAIST_HCI2020 "HCI website building")
-[![PANicDEMIC](https://github.com/Mins0o/Mins0o/raw/master/Previews/Panicdemic.png)](https://github.com/Mins0o/PANicDEMIC/blob/master/Final%20Presentation.pdf "NLP project")
-[![MorseTrainer](https://github.com/Mins0o/Mins0o/raw/master/Previews/MorseTrainer.png)](https://github.com/Mins0o/MorseCodeTrainer "Morse Code Trainer")
-[![Smpl Editor](https://github.com/Mins0o/Mins0o/raw/master/Previews/Smpl_Editor.png)](https://github.com/Mins0o/Smpl-Editor "Smpl Editor")
-[![Sudoku Solver](https://github.com/Mins0o/Mins0o/raw/master/Previews/Sudoku_Solver.png)](https://github.com/Mins0o/Sudoku-Solver-GUI "Sudoku Solver")
-[![Wooden Boat](https://github.com/Mins0o/Mins0o/raw/master/Previews/Wooden_Boat.png)](https://github.com/Mins0o/Wooden-Boat "Wooden Boat Layer-by-Layer")  
+[![DoorOpener](https://github.com/Mins0o/Mins0o/raw/master/Previews/DoorOpener200.gif)](https://github.com/Mins0o/Door_Opener "Door Opener")
+[![HCI2020](https://github.com/Mins0o/Mins0o/raw/master/Previews/HCI2020200.png)](https://github.com/Mins0o/Happy_KAIST_HCI2020 "HCI website building")
+[![PANicDEMIC](https://github.com/Mins0o/Mins0o/raw/master/Previews/Panicdemic200.png)](https://github.com/Mins0o/PANicDEMIC/blob/master/Final%20Presentation.pdf "NLP project")
+[![MorseTrainer](https://github.com/Mins0o/Mins0o/raw/master/Previews/MorseTrainer200.png)](https://github.com/Mins0o/MorseCodeTrainer "Morse Code Trainer")
+[![Smpl Editor](https://github.com/Mins0o/Mins0o/raw/master/Previews/Smpl_Editor200.png)](https://github.com/Mins0o/Smpl-Editor "Smpl Editor")
+[![Sudoku Solver](https://github.com/Mins0o/Mins0o/raw/master/Previews/Sudoku_Solver200.png)](https://github.com/Mins0o/Sudoku-Solver-GUI "Sudoku Solver")
+[![Wooden Boat](https://github.com/Mins0o/Mins0o/raw/master/Previews/Wooden_Boat200.png)](https://github.com/Mins0o/Wooden-Boat "Wooden Boat Layer-by-Layer")  
+<!--
+[![DoorOpener](https://github.com/Mins0o/Mins0o/raw/master/Previews/DoorOpener
+.gif)](https://github.com/Mins0o/Door_Opener "Door Opener")
+[![HCI2020](https://github.com/Mins0o/Mins0o/raw/master/Previews/HCI2020
+.png)](https://github.com/Mins0o/Happy_KAIST_HCI2020 "HCI website building")
+[![PANicDEMIC](https://github.com/Mins0o/Mins0o/raw/master/Previews/Panicdemic
+.png)](https://github.com/Mins0o/PANicDEMIC/blob/master/Final%20Presentation.pdf "NLP project")
+[![MorseTrainer](https://github.com/Mins0o/Mins0o/raw/master/Previews/MorseTrainer
+.png)](https://github.com/Mins0o/MorseCodeTrainer "Morse Code Trainer")
+[![Smpl Editor](https://github.com/Mins0o/Mins0o/raw/master/Previews/Smpl_Editor
+.png)](https://github.com/Mins0o/Smpl-Editor "Smpl Editor")
+[![Sudoku Solver](https://github.com/Mins0o/Mins0o/raw/master/Previews/Sudoku_Solver
+.png)](https://github.com/Mins0o/Sudoku-Solver-GUI "Sudoku Solver")
+[![Wooden Boat](https://github.com/Mins0o/Mins0o/raw/master/Previews/Wooden_Boat
+.png)](https://github.com/Mins0o/Wooden-Boat "Wooden Boat Layer-by-Layer")  
+-->
 .  
 
 ---
