@@ -6,7 +6,7 @@
 ![Minsoo's github stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=Mins0o&count_private=true&hide=issues&show_icons=true)
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Mins0o&layout=compact)  
 ---
-#### 🌱 I’m currently parcticing C#/Python | Machine Learning and Deep Learning | Microcontrollers and architectures(and peripherals-electronics)
+#### 🌱 I’m currently parcticing C#/Python and learning Machine Learning and Deep Learning | Microcontrollers and architectures(and peripherals-electronics)
 Highschool : [GSHS](http://gshs-h.gne.go.kr/gshs-h/main.do)  
 Bachelor : [KAIST](https://kaist.ac.kr/kr/) (graduation ETA 2022.02.)  
 
