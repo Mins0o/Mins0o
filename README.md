@@ -13,6 +13,9 @@
 [![HCI2020](HCI2020.png)](https://github.com/Mins0o/Happy_KAIST_HCI2020 "HCI website building")
 [![PANicDEMIC](Panincdemic.png)](https://github.com/Mins0o/PANicDEMIC/blob/master/Final%20Presentation.pdf "NLP project")
 [![MorseTrainer](MoreseTrainer.png)](https://github.com/Mins0o/MorseCodeTrainer)
+[![Smpl Editor](Smpl_Editor.png)](https://github.com/Mins0o/Smpl-Editor)
+[![Sudoku Solver](Sudoku_Solver.png)](https://github.com/Mins0o/Sudoku-Solver-GUI)
+[![Wooden Boat](Wooden_Boat.png)](https://github.com/Mins0o/Wooden-Boat)
 
 
 [How to add a vanilla profile to your GitHub](/CreateProfile.png)  
