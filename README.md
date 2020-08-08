@@ -23,6 +23,7 @@ Bachelor : [KAIST](https://kaist.ac.kr/kr/) (graduation ETA 2022.02.)
 [![Smpl Editor](https://github.com/Mins0o/Mins0o/raw/master/Previews/Smpl_Editor200.png)](https://github.com/Mins0o/Smpl-Editor "Smpl Editor")
 [![Sudoku Solver](https://github.com/Mins0o/Mins0o/raw/master/Previews/Sudoku_Solver200.png)](https://github.com/Mins0o/Sudoku-Solver-GUI "Sudoku Solver")
 [![Wooden Boat](https://github.com/Mins0o/Mins0o/raw/master/Previews/Wooden_Boat200.png)](https://github.com/Mins0o/Wooden-Boat "Wooden Boat Layer-by-Layer")  
+And more!  
 <!--
 [![DoorOpener](https://github.com/Mins0o/Mins0o/raw/master/Previews/DoorOpener
 .gif)](https://github.com/Mins0o/Door_Opener "Door Opener")
@@ -39,7 +40,6 @@ Bachelor : [KAIST](https://kaist.ac.kr/kr/) (graduation ETA 2022.02.)
 [![Wooden Boat](https://github.com/Mins0o/Mins0o/raw/master/Previews/Wooden_Boat
 .png)](https://github.com/Mins0o/Wooden-Boat "Wooden Boat Layer-by-Layer")  
 -->
-.  
 
 ---
 ---
