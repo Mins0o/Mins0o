@@ -6,18 +6,27 @@
 ![Minsoo's github stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=Mins0o&count_private=true&hide=issues&show_icons=true)
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Mins0o&layout=compact)  
 ---
-#### 🌱 I’m currently learning C#/Python | Machine Learning and Deep Learning | Microcontrollers and architectures(and peripherals-electronics)
+#### 🌱 I’m currently parcticing C#/Python | Machine Learning and Deep Learning | Microcontrollers and architectures(and peripherals-electronics)
+Highschool : [GSHS](http://gshs-h.gne.go.kr/gshs-h/main.do)  
+Bachelor : [KAIST](https://kaist.ac.kr/kr/) (graduation ETA 2022.02.)  
 
-## Previews
+- Major#1 [School of Computing](https://cs.kaist.ac.kr/)
+- Major#2 [Mechanical Engineering](http://me.kaist.ac.kr/main/main.html)
+- Minor\_\_\_ [Industrial Design](https://id.kaist.ac.kr/)
+---
+## Projects  
 [![DoorOpener](https://github.com/Mins0o/Mins0o/raw/master/Previews/DoorOpener.gif)](https://github.com/Mins0o/Door_Opener "Door Opener")
 [![HCI2020](https://github.com/Mins0o/Mins0o/raw/master/Previews/HCI2020.png)](https://github.com/Mins0o/Happy_KAIST_HCI2020 "HCI website building")
 [![PANicDEMIC](https://github.com/Mins0o/Mins0o/raw/master/Previews/Panicdemic.png)](https://github.com/Mins0o/PANicDEMIC/blob/master/Final%20Presentation.pdf "NLP project")
 [![MorseTrainer](https://github.com/Mins0o/Mins0o/raw/master/Previews/MorseTrainer.png)](https://github.com/Mins0o/MorseCodeTrainer "Morse Code Trainer")
 [![Smpl Editor](https://github.com/Mins0o/Mins0o/raw/master/Previews/Smpl_Editor.png)](https://github.com/Mins0o/Smpl-Editor "Smpl Editor")
 [![Sudoku Solver](https://github.com/Mins0o/Mins0o/raw/master/Previews/Sudoku_Solver.png)](https://github.com/Mins0o/Sudoku-Solver-GUI "Sudoku Solver")
-[![Wooden Boat](https://github.com/Mins0o/Mins0o/raw/master/Previews/Wooden_Boat.png)](https://github.com/Mins0o/Wooden-Boat "Wooden Boat Layer-by-Layer")
+[![Wooden Boat](https://github.com/Mins0o/Mins0o/raw/master/Previews/Wooden_Boat.png)](https://github.com/Mins0o/Wooden-Boat "Wooden Boat Layer-by-Layer")  
+.  
 
-
+---
+---
+**Want to add these features to your GitHub page?**  
 [How to add a vanilla profile to your GitHub](/CreateProfile.png)  
   
-[How to add this feature to your GitHub page.](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md "This feature is based on an app that runs on the OP's personal server. His server runs into traffic problems sometimes. If the `demo` is not showing up well, the server must be down. Go to the Deploy on your own Vercel instance section and deploy your own app to use it independently. This will require you to fork or clone the repository. I cloned the repositry and pushed it as a private repo of mine to use the source independently.")  
+[How to add the widgets to your GitHub page.](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md "This feature is based on an app that runs on the OP's personal server. His server runs into traffic problems sometimes. If the `demo` is not showing up well, the server must be down. Go to the Deploy on your own Vercel instance section and deploy your own app to use it independently. This will require you to fork or clone the repository. I cloned the repositry and pushed it as a private repo of mine to use the source independently.")  
