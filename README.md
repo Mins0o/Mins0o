@@ -9,13 +9,13 @@
 #### 🌱 I’m currently learning C#/Python | Machine Learning and Deep Learning | Microcontrollers and architectures(and peripherals-electronics)
 
 ## Previews
-[![DoorOpener](DoorOpener.gif)](https://github.com/Mins0o/Door_Opener "Door Opener")
-[![HCI2020](HCI2020.png)](https://github.com/Mins0o/Happy_KAIST_HCI2020 "HCI website building")
-[![PANicDEMIC](Panincdemic.png)](https://github.com/Mins0o/PANicDEMIC/blob/master/Final%20Presentation.pdf "NLP project")
-[![MorseTrainer](MoreseTrainer.png)](https://github.com/Mins0o/MorseCodeTrainer)
-[![Smpl Editor](Smpl_Editor.png)](https://github.com/Mins0o/Smpl-Editor)
-[![Sudoku Solver](Sudoku_Solver.png)](https://github.com/Mins0o/Sudoku-Solver-GUI)
-[![Wooden Boat](Wooden_Boat.png)](https://github.com/Mins0o/Wooden-Boat)
+[![DoorOpener](Previews/DoorOpener.gif)](https://github.com/Mins0o/Door_Opener "Door Opener")
+[![HCI2020](Previews/HCI2020.png)](https://github.com/Mins0o/Happy_KAIST_HCI2020 "HCI website building")
+[![PANicDEMIC](Previews/Panicdemic.png)](https://github.com/Mins0o/PANicDEMIC/blob/master/Final%20Presentation.pdf "NLP project")
+[![MorseTrainer](Previews/MorseTrainer.png)](https://github.com/Mins0o/MorseCodeTrainer "Morse Code Trainer")
+[![Smpl Editor](Previews/Smpl_Editor.png)](https://github.com/Mins0o/Smpl-Editor "Smpl Editor")
+[![Sudoku Solver](Previews/Sudoku_Solver.png)](https://github.com/Mins0o/Sudoku-Solver-GUI "Sudoku Solver")
+[![Wooden Boat](Previews/Wooden_Boat.png)](https://github.com/Mins0o/Wooden-Boat "Wooden Boat Layer-by-Layer")
 
 
 [How to add a vanilla profile to your GitHub](/CreateProfile.png)  
