@@ -44,6 +44,6 @@ And more!
 ---
 ---
 **Want to add these features to your GitHub page?**  
-[How to add a vanilla profile to your GitHub](/CreateProfile.png)  
+[How to add a vanilla profile to your GitHub](https://github.com/Mins0o/Mins0o/raw/master/CreateProfile.png)  
   
 [How to add the widgets to your GitHub page.](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md "This feature is based on an app that runs on the OP's personal server. His server runs into traffic problems sometimes. If the `demo` is not showing up well, the server must be down. Go to the Deploy on your own Vercel instance section and deploy your own app to use it independently. This will require you to fork or clone the repository. I cloned the repositry and pushed it as a private repo of mine to use the source independently.")  
