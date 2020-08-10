@@ -3,7 +3,7 @@
 <!--
 **Mins0o/Mins0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![Minsoo's github stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=Mins0o&count_private=true&hide=issues&show_icons=true)
+![Minsoo's github stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=Mins0o&count_private=true&show_icons=true)
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Mins0o&layout=compact)  
 ---
 #### 🌱 I’m currently parcticing C#/Python and learning Machine Learning and Deep Learning | Microcontrollers and architectures(with peripheral electronic components)
