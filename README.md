@@ -1,5 +1,5 @@
 # 강민수 :kr: Minsoo Kang  
-## Repositories that I am currently working on: [■](https://github.com/Mins0o/ML_DL_Correlation_Convolution-Exercise) [□](https://github.com/Mins0o/NonogramSolverGUI) ...
+## Repositories that I am currently working on → [■](https://github.com/Mins0o/ML_DL_Correlation_Convolution-Exercise) [□](https://github.com/Mins0o/NonogramSolverGUI) ...
 ---
 <!--
 **Mins0o/Mins0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
