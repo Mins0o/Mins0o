@@ -25,6 +25,15 @@ Bachelor : [KAIST](https://kaist.ac.kr/kr/) (graduation ETA 2022.02.)
 [![Smpl Editor](https://github.com/Mins0o/Mins0o/raw/master/Previews/Smpl_Editor200.png)](https://github.com/Mins0o/Smpl-Editor "Smpl Editor")
 [![Sudoku Solver](https://github.com/Mins0o/Mins0o/raw/master/Previews/Sudoku_Solver200.png)](https://github.com/Mins0o/Sudoku-Solver-GUI "Sudoku Solver")
 [![Wooden Boat](https://github.com/Mins0o/Mins0o/raw/master/Previews/Wooden_Boat200.png)](https://github.com/Mins0o/Wooden-Boat "Wooden Boat Layer-by-Layer")  
+##### from upper left:  
+- Audio recognition door opener  
+- Social recipe curation and shopping website - A team project form HCI course
+- Sentiment analysis on COVID-19 related tweets - Classification and trend analysis
+- Machine Learning and Deeplearning practice - From data recording/preprocessing to classification/experiments
+- Morse code interaction GUI
+- Music playlist editing GUI
+- Simple search based Sudoku solver GUI
+- 3D modelling of a wooden boat that can be laser cut
 And more!  
 <!--
 [![DoorOpener](https://github.com/Mins0o/Mins0o/raw/master/Previews/DoorOpener
