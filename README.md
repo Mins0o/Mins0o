@@ -33,8 +33,8 @@ Bachelor : [KAIST](https://kaist.ac.kr/kr/) (graduation ETA 2022.02.)
 - Morse code interaction GUI
 - Music playlist editing GUI
 - Simple search based Sudoku solver GUI
-- 3D modelling of a wooden boat that can be laser cut
-And more!  
+- 3D modelling of a wooden boat that can be laser cut  
+**And more!**  
 <!--
 [![DoorOpener](https://github.com/Mins0o/Mins0o/raw/master/Previews/DoorOpener
 .gif)](https://github.com/Mins0o/Door_Opener "Door Opener")
