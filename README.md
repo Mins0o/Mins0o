@@ -27,8 +27,8 @@ Bachelor : [KAIST](https://kaist.ac.kr/kr/) (graduation ETA 2022.02.)
 [![Wooden Boat](https://github.com/Mins0o/Mins0o/raw/master/Previews/Wooden_Boat200.png)](https://github.com/Mins0o/Wooden-Boat "Wooden Boat Layer-by-Layer")  
 ##### To the right from upper left:  
 - Audio recognition door opener  
-- Social recipe curation and shopping website - A team project form HCI course
-- Sentiment analysis on COVID-19 related tweets - Classification and trend analysis
+- Social recipe curation and shopping website - A team project from HCI course
+- Sentiment analysis on COVID-19 related tweets|Classification and trend analysis - A team project from NLP course
 - Machine Learning and Deeplearning practice - From data recording/preprocessing to classification/experiments
 - Morse code interaction GUI
 - Music playlist editing GUI
