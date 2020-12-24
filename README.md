@@ -30,7 +30,7 @@ Bachelor : [KAIST](https://kaist.ac.kr/kr/) (graduation ETA 2022.02.)
 ##### To the right from upper left:  
 - Audio recognition door opener  
 - Social recipe curation and shopping website - A team project from HCI course
-- Blackbox adversarial attack improved and expanded - Adding to [DeepSearch](https://dl.acm.org/doi/abs/10.1145/3368089.3409750)
+- Blackbox adversarial attack improved and expanded - Adding to [DeepSearch](https://dl.acm.org/doi/abs/10.1145/3368089.3409750) - A team project from SBSE course
 - Sentiment analysis on COVID-19 related tweets|Classification and trend analysis - A team project from NLP course
 - Machine Learning and Deeplearning practice - From data recording/preprocessing to classification/experiments
 - Morse code interaction GUI
