@@ -1,5 +1,5 @@
-# 강민수 :kr: Minsoo Kang  
-## Repositories that I am currently working on → [■](https://github.com/Mins0o/AISE-DeepSearch "Blackbox Adversarial attack") [■](https://github.com/Mins0o/NonogramSolverGUI "Nonogram Solver") [■](https://github.com/Mins0o/Motion-Tracker "CV Motion tracker") ...
+# 강민수 :KR: Minsoo Kang  
+## Repositories that I am currently working on → [■](https://github.com/Mins0o/NonogramSolverGUI "Nonogram Solver") [■](https://github.com/Mins0o/Motion-Tracker "CV Motion tracker") ...
 ---
 <!--
 **Mins0o/Mins0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,27 +7,30 @@
 ![Minsoo's github stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=Mins0o&count_private=true&show_icons=true)
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Mins0o&layout=compact)  
 ---
-#### 🌱 I’m currently practicing C#/Python and learning Machine Learning and Deep Learning | Microcontrollers and architectures (with peripheral electronic components)
+#### 🌱 I’m currently practicing Micro-Controller programming and Computer vision. I'm trying to learn more about machine learning and occasionally read about quantum computing.  
 Highschool : [GSHS](http://gshs-h.gne.go.kr/gshs-h/main.do)  
 Bachelor : [KAIST](https://kaist.ac.kr/kr/) (graduation ETA 2022.02.)  
 
-- Major#1\: [School of Computing](https://cs.kaist.ac.kr/)
-- Major#2\: [Mechanical Engineering](http://me.kaist.ac.kr/main/main.html)
-- Minor\_\_\: [Industrial Design](https://id.kaist.ac.kr/)
-- Club\_\_\_\_\:  MicroRobot Research Club [MR.](https://mr.kaist.ac.kr/) / RC Plane building club **ICARUS**
+- Major#1\: [School of Computing](https://cs.kaist.ac.kr/)  
+- Major#2\: [Mechanical Engineering](http://me.kaist.ac.kr/main/main.html)  
+- Minor\_\_\: [Industrial Design](https://id.kaist.ac.kr/)  
+- Club\_\_\_\_\:  MicroRobot Research Club [MR.](https://mr.kaist.ac.kr/) / RC Plane building club **ICARUS**  
 ---
 ## Projects  
 [![DoorOpener](https://github.com/Mins0o/Mins0o/raw/master/Previews/DoorOpener200.gif)](https://github.com/Mins0o/Door_Opener "Door Opener")
 [![HCI2020](https://github.com/Mins0o/Mins0o/raw/master/Previews/HCI2020200.png)](https://github.com/Mins0o/Happy_KAIST_HCI2020 "HCI website building")
+[![DeeperSearch](https://github.com/Mins0o/Mins0o/raw/master/Previews/DeeperSearch.png)](https://github.com/Mins0o/DeeperSearch "DeepSearch algorithm improved and expanded")
 [![PANicDEMIC](https://github.com/Mins0o/Mins0o/raw/master/Previews/Panicdemic200.png)](https://github.com/Mins0o/PANicDEMIC/blob/master/Final%20Presentation.pdf "NLP project")
 [![ML_DL](https://github.com/Mins0o/Mins0o/raw/master/Previews/MLDL.png)](https://github.com/Mins0o/ML_DL-Exercise "Machine Learning | Deep Learning Exercise")
 [![MorseTrainer](https://github.com/Mins0o/Mins0o/raw/master/Previews/MorseTrainer200.png)](https://github.com/Mins0o/MorseCodeTrainer "Morse Code Trainer")
 [![Smpl Editor](https://github.com/Mins0o/Mins0o/raw/master/Previews/Smpl_Editor200.png)](https://github.com/Mins0o/Smpl-Editor "Smpl Editor")
 [![Sudoku Solver](https://github.com/Mins0o/Mins0o/raw/master/Previews/Sudoku_Solver200.png)](https://github.com/Mins0o/Sudoku-Solver-GUI "Sudoku Solver")
 [![Wooden Boat](https://github.com/Mins0o/Mins0o/raw/master/Previews/Wooden_Boat200.png)](https://github.com/Mins0o/Wooden-Boat "Wooden Boat Layer-by-Layer")  
+  
 ##### To the right from upper left:  
 - Audio recognition door opener  
 - Social recipe curation and shopping website - A team project from HCI course
+- Blackbox adversarial attack improved and expanded - Adding to [DeepSearch](https://dl.acm.org/doi/abs/10.1145/3368089.3409750)
 - Sentiment analysis on COVID-19 related tweets|Classification and trend analysis - A team project from NLP course
 - Machine Learning and Deeplearning practice - From data recording/preprocessing to classification/experiments
 - Morse code interaction GUI
