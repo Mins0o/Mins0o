@@ -1,5 +1,5 @@
 # 강민수 :KR: Minsoo Kang  
-## Repositories that I am currently working on → [■](https://github.com/Mins0o/HapticButton "Haptic Illusion research") [■](https://github.com/john-mai-2605/Javascript-Practice "Web Development Practice")[□](https://github.com/Mins0o/NonogramSolverGUI "Nonogram Solver") [□](https://github.com/Mins0o/Motion-Tracker "CV Motion tracker") ...
+## Repositories that I am currently working on → [■](https://github.com/john-mai-2605/Javascript-Practice "Web Development Practice")[□](https://github.com/Mins0o/NonogramSolverGUI "Nonogram Solver") [□](https://github.com/Mins0o/Motion-Tracker "CV Motion tracker") ...
 ---
 <!--
 **Mins0o/Mins0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,9 +11,9 @@
 Highschool : [GSHS](http://gshs-h.gne.go.kr/gshs-h/main.do)  
 Bachelor : [KAIST](https://kaist.ac.kr/kr/) (graduation ETA 2022.02.)  
 
-- Major#1\: [School of Computing](https://cs.kaist.ac.kr/)  
-- Major#2\: [Mechanical Engineering](http://me.kaist.ac.kr/main/main.html)  
-- Minor\_\_\: [Industrial Design](https://id.kaist.ac.kr/)  
+- Major#1\_\: [School of Computing](https://cs.kaist.ac.kr/)  
+- Major#2\_\: [Mechanical Engineering](http://me.kaist.ac.kr/main/main.html)  
+- Minor(1,2)\: [Industrial Design](https://id.kaist.ac.kr/), [College of Business](https://btm.kaist.ac.kr)  
 - Club\_\_\_\_\:  MicroRobot Research Club [MR.](https://mr.kaist.ac.kr/) / RC Plane building club **ICARUS**  
 ---
 ## Projects  
