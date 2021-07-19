@@ -4,8 +4,8 @@
 <!--
 **Mins0o/Mins0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![Minsoo's github stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=Mins0o&count_private=true&show_icons=true)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Mins0o&layout=compact)  
+![Minsoo's github stats](https://github-readme-stats.vercel.app/api?username=Mins0o&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mins0o&layout=compact)  
 ---
 #### 🌱 I’m currently practicing Micro-Controller programming and Computer vision. I'm trying to learn more about machine learning and occasionally read about quantum computing.  
 Highschool : [GSHS](http://gshs-h.gne.go.kr/gshs-h/main.do)  
