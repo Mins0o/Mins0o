@@ -1,5 +1,5 @@
 # 강민수 :kr: Minsoo Kang  
-## Repositories that I am currently working on → [■](https://github.com/Mins0o/SuperResolutionPractice "Super Resolution (GAN) Practice")[□](https://github.com/Mins0o/Smpl-Editor "SMPL Editor")[□](https://github.com/john-mai-2605/Javascript-Practice "Web Development Practice")[□](https://github.com/Mins0o/TextMining "Text Mining")[ .](https://github.com/Mins0o/NonogramSolverGUI "Nonogram Solver")[ .](https://github.com/Mins0o/Object-Tracker "CV Object tracker") ...
+## Repositories that I am currently working on → [■](https://github.com/Mins0o/Smpl-Editor "SMPL Editor")[□](https://github.com/john-mai-2605/Javascript-Practice "Web Development Practice")[□](https://github.com/Mins0o/TextMining "Text Mining")[ .](https://github.com/Mins0o/NonogramSolverGUI "Nonogram Solver")[ .](https://github.com/Mins0o/Object-Tracker "CV Object tracker") ...
 ---
 <!--
 **Mins0o/Mins0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,7 @@ Bachelor : [KAIST](https://kaist.ac.kr/kr/) (graduation ETA 2022.02.)
 - Club\_\_\_\_\:  MicroRobot Research Club [MR.](https://mr.kaist.ac.kr/) / RC Plane building club **ICARUS**  
 ---
 ## Projects  
+[![RL_Button](./Previews/RL_Battle.gif)](https://github.com/Mins0o/CS492-Team-Project)
 [![Haptic Button](./Previews/HapticButton.gif)](https://github.com/Mins0o/HapticButton "Haptic Button")
 [![Super Resolution Practice](./Previews/SuperResolution.png)](https://github.com/Mins0o/SuperResolutionPractice "Super Resolution Practice")
 [![DoorOpener](./Previews/DoorOpener200.gif)](https://github.com/Mins0o/Door_Opener "Door Opener")
