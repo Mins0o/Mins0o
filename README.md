@@ -8,13 +8,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mins0o&layout=compact)  
 ---
 #### 🌱 I’m currently practicing Micro-Controller programming and Computer vision. I'm trying to learn more about machine learning and occasionally read about quantum computing.  
-Highschool : [GSHS](http://gshs-h.gne.go.kr/gshs-h/main.do)  
-Bachelor : [KAIST](https://kaist.ac.kr/kr/) (graduation ETA 2022.02.)  
-
+Highschool : [GSHS](http://gshs-h.gne.go.kr/gshs-h/main.do) (2012 ~ 2014 - 2 years)  
+Bachelor : [KAIST](https://kaist.ac.kr/kr/) (2014 ~ 2022)  
 - Major#1\_\: [School of Computing](https://cs.kaist.ac.kr/)  
 - Major#2\_\: [Mechanical Engineering](http://me.kaist.ac.kr/main/main.html)  
 - Minor(1,2)\: [Industrial Design](https://id.kaist.ac.kr/), [College of Business](https://btm.kaist.ac.kr)  
 - Club\_\_\_\_\:  MicroRobot Research Club [MR.](https://mr.kaist.ac.kr/) / RC Plane building club **ICARUS**  
+
+Career :  
+ - Samsung Electronics Co.,Ltd. (2022 ~ )  
 ---
 ## Projects  
 [![RL_Button](./Previews/RL_Battle.gif)](https://github.com/Mins0o/CS492-Team-Project)
