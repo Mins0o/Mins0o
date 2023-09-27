@@ -1,5 +1,5 @@
 # 강민수 :kr: Minsoo Kang  
-## Repositories that I am currently working on → [■](https://github.com/Mins0o/Smpl-Editor "SMPL Editor")[□](https://github.com/john-mai-2605/Javascript-Practice "Web Development Practice")[□](https://github.com/Mins0o/TextMining "Text Mining")[ .](https://github.com/Mins0o/NonogramSolverGUI "Nonogram Solver")[ .](https://github.com/Mins0o/Object-Tracker "CV Object tracker") ...
+## Repositories that I am currently working on → [■](https://github.com/john-mai-2605/Javascript-Practice "Web Development Practice")[□](https://github.com/Mins0o/NonogramSolverGUI "Nonogram Solver")[ .](https://github.com/Mins0o/Object-Tracker "CV Object tracker") ...
 ---
 <!--
 **Mins0o/Mins0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,7 +7,14 @@
 ![Minsoo's github stats](https://github-readme-stats.vercel.app/api?username=Mins0o&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mins0o&layout=compact)  
 ---
-#### 🌱 I’m currently practicing Micro-Controller programming and Computer vision. I'm trying to learn more about machine learning and occasionally read about quantum computing.  
+#### 🖥️⌨️💼🏬🌆 I work at Samsung Electronics in Suwon. My current hobbies are **Linux distro hopping**, setting up **local generative AI** systems, and **customizing keyboards**. 
+I wish to do more projects about: 
+1. Computer Vision 
+2. Market Understanding 
+3. Quantum Computing.  
+
+### Education
+
 Highschool : [GSHS](http://gshs-h.gne.go.kr/gshs-h/main.do) (2012 ~ 2014 - 2 years)  
 Bachelor : [KAIST](https://kaist.ac.kr/kr/) (2014 ~ 2022)  
 - Major#1\_\: [School of Computing](https://cs.kaist.ac.kr/)  
@@ -16,7 +23,7 @@ Bachelor : [KAIST](https://kaist.ac.kr/kr/) (2014 ~ 2022)
 - Club\_\_\_\_\:  MicroRobot Research Club [MR.](https://mr.kaist.ac.kr/) / RC Plane building club **ICARUS**  
 
 Career :  
- - Samsung Electronics Co.,Ltd. (2022 ~ )  
+ - [Samsung Electronics Co.,Ltd. \[AIFW Engineer\] (2022 ~ )](https://www.linkedin.com/in/memesoo-kang/)  
 ---
 ## Projects  
 [![RL_Button](./Previews/RL_Battle.gif)](https://github.com/Mins0o/CS492-Team-Project)
