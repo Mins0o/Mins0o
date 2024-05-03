@@ -12,6 +12,7 @@
 ~~past_hobbies:   
 Linux distro hopping, local generative AIs, customizing keyboards, customizing opensource SW~~.  
   
+Arch, NixOS, Debian, Fedora user.
 If you were to ask me which OS is the best, I would say all of them.  
 🪟Windows, :tokyo_tower:Arch, :apple:Mac, :snowflake:NixOS, :diamond_shape_with_a_dot_inside:TIZEN, everything.  
   
