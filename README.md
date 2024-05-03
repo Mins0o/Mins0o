@@ -39,9 +39,9 @@ Career :
 [![Haptic Button](./Previews/HapticButton.gif)](https://github.com/Mins0o/HapticButton "Haptic Button")
 [![Super Resolution Practice](./Previews/SuperResolution.png)](https://github.com/Mins0o/SuperResolutionPractice "Super Resolution Practice")
 [![DoorOpener](./Previews/DoorOpener200.gif)](https://github.com/Mins0o/Door_Opener "Door Opener")
-<!--[![HCI2020](./Previews/HCI2020200.png)](https://github.com/Mins0o/Happy_KAIST_HCI2020 "HCI website building")-->
 [![DeeperSearch](./Previews/DeeperSearch.png)](https://github.com/Mins0o/DeeperSearch "DeepSearch algorithm improved and expanded")
 [![PANicDEMIC](./Previews/Panicdemic200.png)](https://github.com/Mins0o/PANicDEMIC/blob/master/Final%20Presentation.pdf "NLP project")  
+<!--[![HCI2020](./Previews/HCI2020200.png)](https://github.com/Mins0o/Happy_KAIST_HCI2020 "HCI website building")-->
 <!--[![ML_DL](./Previews/MLDL.png)](https://github.com/Mins0o/ML_DL-Exercise "Machine Learning | Deep Learning Exercise")-->
 <!--[![MorseTrainer](./Previews/MorseTrainer200.png)](https://github.com/Mins0o/MorseCodeTrainer "Morse Code Trainer")-->
 <!--[![Smpl Editor](./Previews/Smpl_Editor200.png)](https://github.com/Mins0o/Smpl-Editor "Smpl Editor")-->
@@ -54,9 +54,9 @@ Career :
 - Haptic Button (Learning about HCI and physical UI - haptics)  
 - Image Super Resolution Practice (Learning about SR)  
 - Audio recognition door opener for dogs  
-<!-- - Social recipe curation and shopping website - A team project from HCI course -->  
 - Blackbox adversarial attack improved and expanded - Adding to [DeepSearch](https://dl.acm.org/doi/abs/10.1145/3368089.3409750) - A team project from SBSE course  
 - Sentiment analysis on COVID-19 related tweets|Classification and trend analysis - A team project from NLP course  
+<!-- - Social recipe curation and shopping website - A team project from HCI course -->  
 <!-- - Machine Learning and Deep Learning practice - From data recording/preprocessing to classification/experiments -->  
 <!-- - Morse code interaction GUI -->  
 <!-- - Music playlist editing GUI -->  
