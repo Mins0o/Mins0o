@@ -10,7 +10,10 @@
 ---
 #### 🖥️⌨️💼🏬🌆 I work at Samsung Electronics in Suwon. My current hobbies are **self hosting servers**, **trying various input device/methods**, **swimming**, and obviously **making stuffs** (duh...) like robots, SW, drawings...  
 ~~past_hobbies:   
-Linux distro hopping, local generative AIs, customizing keyboards, customizing opensource SW~~.   
+Linux distro hopping, local generative AIs, customizing keyboards, customizing opensource SW~~.  
+  
+If you were to ask me which OS is the best, I would say all of them.  
+🪟Windows, :tokyo_tower:Arch, :apple:Mac, :snowflake:NixOS, :diamond_shape_with_a_dot_inside:TIZEN, everything.  
   
 I wish to do more projects about:  
 1. Quantum Computing  
