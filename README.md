@@ -4,15 +4,18 @@
 <!--
 **Mins0o/Mins0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![Minsoo's github stats](https://github-readme-stats.vercel.app/api?username=Mins0o&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mins0o&layout=compact)  
----
-#### 🖥️⌨️💼🏬🌆 I work at Samsung Electronics in Suwon. My current hobbies are **Linux distro hopping**, setting up **local generative AI** systems, and **customizing keyboards**. 
-I wish to do more projects about: 
-1. Computer Vision 
-2. Market Understanding 
-3. Quantum Computing.  
 
+![Minsoo's github stats](https://memesoogpt.xyz/readme_stats?username=Mins0o&count_private=true&show_icons=true)
+![Top Langs](https://memesoogpt.xyz/readme_stats/top-langs/?username=Mins0o&layout=compact)    
+---
+#### 🖥️⌨️💼🏬🌆 I work at Samsung Electronics in Suwon. My current hobbies are **self hosting servers**, **trying various input device/methods**, **swimming**, and obviously **making stuffs** (duh...) like robots, SW, drawings...  
+~~past_hobbies: Linux distro hopping, local generative AIs, customizing keyboards, customizing opensource SW~~.   
+I wish to do more projects about:  
+1. Quantum Computing  
+2. Physical UIs  
+3. Market Understanding  
+4. Reinforcement Learning/Game Simulation (More of strategic games than video games)  
+  
 ### Education
 
 Highschool : [GSHS](http://gshs-h.gne.go.kr/gshs-h/main.do) (2012 ~ 2014 - 2 years)  
@@ -25,32 +28,35 @@ Bachelor : [KAIST](https://kaist.ac.kr/kr/) (2014 ~ 2022)
 Career :  
  - [Samsung Electronics Co.,Ltd. \[AIFW Engineer\] (2022 ~ )](https://www.linkedin.com/in/memesoo-kang/)  
 ---
-## Projects  
-[![RL_Button](./Previews/RL_Battle.gif)](https://github.com/Mins0o/CS492-Team-Project)
+## Projects 
+[![Match_Leaderboard](./Previews/MS_Playground_Rummikub.gif)](https://ms-playground.club/rummikub/) 
+[![RL_Battle](./Previews/RL_Battle.gif)](https://github.com/Mins0o/CS492-Team-Project)
 [![Haptic Button](./Previews/HapticButton.gif)](https://github.com/Mins0o/HapticButton "Haptic Button")
 [![Super Resolution Practice](./Previews/SuperResolution.png)](https://github.com/Mins0o/SuperResolutionPractice "Super Resolution Practice")
 [![DoorOpener](./Previews/DoorOpener200.gif)](https://github.com/Mins0o/Door_Opener "Door Opener")
-[![HCI2020](./Previews/HCI2020200.png)](https://github.com/Mins0o/Happy_KAIST_HCI2020 "HCI website building")
+<!--[![HCI2020](./Previews/HCI2020200.png)](https://github.com/Mins0o/Happy_KAIST_HCI2020 "HCI website building")-->
 [![DeeperSearch](./Previews/DeeperSearch.png)](https://github.com/Mins0o/DeeperSearch "DeepSearch algorithm improved and expanded")
-[![PANicDEMIC](./Previews/Panicdemic200.png)](https://github.com/Mins0o/PANicDEMIC/blob/master/Final%20Presentation.pdf "NLP project")
-[![ML_DL](./Previews/MLDL.png)](https://github.com/Mins0o/ML_DL-Exercise "Machine Learning | Deep Learning Exercise")
-[![MorseTrainer](./Previews/MorseTrainer200.png)](https://github.com/Mins0o/MorseCodeTrainer "Morse Code Trainer")
-[![Smpl Editor](./Previews/Smpl_Editor200.png)](https://github.com/Mins0o/Smpl-Editor "Smpl Editor")
-[![Sudoku Solver](./Previews/Sudoku_Solver200.png)](https://github.com/Mins0o/Sudoku-Solver-GUI "Sudoku Solver")
-[![Wooden Boat](./Previews/Wooden_Boat200.png)](https://github.com/Mins0o/Wooden-Boat "Wooden Boat Layer-by-Layer")  
+[![PANicDEMIC](./Previews/Panicdemic200.png)](https://github.com/Mins0o/PANicDEMIC/blob/master/Final%20Presentation.pdf "NLP project")  
+<!--[![ML_DL](./Previews/MLDL.png)](https://github.com/Mins0o/ML_DL-Exercise "Machine Learning | Deep Learning Exercise")-->
+<!--[![MorseTrainer](./Previews/MorseTrainer200.png)](https://github.com/Mins0o/MorseCodeTrainer "Morse Code Trainer")-->
+<!--[![Smpl Editor](./Previews/Smpl_Editor200.png)](https://github.com/Mins0o/Smpl-Editor "Smpl Editor")-->
+<!--[![Sudoku Solver](./Previews/Sudoku_Solver200.png)](https://github.com/Mins0o/Sudoku-Solver-GUI "Sudoku Solver")-->
+<!--[![Wooden Boat](./Previews/Wooden_Boat200.png)](https://github.com/Mins0o/Wooden-Boat "Wooden Boat Layer-by-Layer")-->  
   
 ##### To the right from upper left:  
-- Haptic Button (Learning about the field HCI study - haptics)  
+- Match leaderboard with ELO rating/win\_probability calculation  
+- Webpage for training, dueling, spectating reinforcement learning agents  
+- Haptic Button (Learning about HCI and physical UI - haptics)  
 - Image Super Resolution Practice (Learning about SR)  
-- Audio recognition door opener  
-- Social recipe curation and shopping website - A team project from HCI course  
+- Audio recognition door opener for dogs  
+<!-- - Social recipe curation and shopping website - A team project from HCI course -->  
 - Blackbox adversarial attack improved and expanded - Adding to [DeepSearch](https://dl.acm.org/doi/abs/10.1145/3368089.3409750) - A team project from SBSE course  
 - Sentiment analysis on COVID-19 related tweets|Classification and trend analysis - A team project from NLP course  
-- Machine Learning and Deep Learning practice - From data recording/preprocessing to classification/experiments  
-- Morse code interaction GUI  
-- Music playlist editing GUI  
-- Simple search based Sudoku solver GUI  
-- 3D modelling of a wooden boat that can be laser cut  
+<!-- - Machine Learning and Deep Learning practice - From data recording/preprocessing to classification/experiments -->  
+<!-- - Morse code interaction GUI -->  
+<!-- - Music playlist editing GUI -->  
+<!-- - Simple search based Sudoku solver GUI -->  
+<!-- - 3D modelling of a wooden boat that can be laser cut -->  
 
 **[And more!](https://github.com/Mins0o?tab=repositories)**  
 <!--
