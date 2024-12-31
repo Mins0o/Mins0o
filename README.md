@@ -1,5 +1,5 @@
 # 강민수 :kr: Minsoo Kang  
-## Repositories that I am currently working on → [■](https://github.com/Mins0o/Market_Prediction_Playground) □ ... ...
+~~## Repositories that I am currently working on →~~  
 ---
 <!--
 **Mins0o/Mins0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,17 +8,15 @@
 ![Minsoo's github stats](https://memesoo.net/readme_stats?username=Mins0o&count_private=true&show_icons=true)
 ![Top Langs](https://memesoo.net/readme_stats/top-langs/?username=Mins0o&layout=compact)    
 ---
-#### 🖥️⌨️💼🏬🌆 I work at Samsung Electronics in Suwon. My current hobbies are **self hosting servers**, **trying various input device/methods**, **swimming**, and obviously **making stuffs** (duh...) like robots, SW, drawings...  
-~~past_hobbies:   
-Linux distro hopping, local generative AIs, customizing keyboards, customizing opensource SW~~.  
+#### 🖥️⌨️💼🏬🌆 I work at Samsung Electronics in Suwon. My current hobbies are **self hosting servers**, **trying various input device/methods**, **writing my own markdown journals**...  
   
-Arch, NixOS, Debian, Fedora user.
+Arch, ~~NixOS~~, Debian, Fedora, Windows, MacOS user.
 If you were to ask me which OS is the best, I would say all of them.  
 🪟Windows, :tokyo_tower:Arch, :apple:Mac, :snowflake:NixOS, :diamond_shape_with_a_dot_inside:TIZEN, everything.  
   
 I wish to do more projects about:  
 1. Quantum Computing  
-2. Physical UIs  
+2. Physical UIs (with MCU and MPUs)  
 3. Market Understanding  
 4. Reinforcement Learning/Game Simulation (More of strategic games than video games)  
   
@@ -35,6 +33,7 @@ Career :
  - [Samsung Electronics Co.,Ltd. \[AIFW Engineer\] (2022 ~ )](https://www.linkedin.com/in/memesoo-kang/)  
 ---
 ## Projects 
+[![EfficientFrontier](./Previews/efficientFrontier1.jpg)](https://github.com/Mins0o/Market_Prediction_Playground/tree/main/cpp_efficient_frontier/deliverable_results) 
 [![Match_Leaderboard](./Previews/MS_Playground_Rummikub.gif)](https://ms-playground.club/rummikub/) 
 [![RL_Battle](./Previews/RL_Battle.gif)](https://github.com/Mins0o/CS492-Team-Project)
 [![Haptic Button](./Previews/HapticButton.gif)](https://github.com/Mins0o/HapticButton "Haptic Button")
@@ -50,6 +49,7 @@ Career :
 <!--[![Wooden Boat](./Previews/Wooden_Boat200.png)](https://github.com/Mins0o/Wooden-Boat "Wooden Boat Layer-by-Layer")-->  
   
 ##### To the right from upper left:  
+- Visualizing efficient frontier of a portfolio mix
 - Match leaderboard with ELO rating/win\_probability calculation  
 - Webpage for training, dueling, spectating reinforcement learning agents  
 - Haptic Button (Learning about HCI and physical UI - haptics)  
