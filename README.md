@@ -1,5 +1,8 @@
 # 강민수 :kr: Minsoo Kang  
 ~~## Repositories that I am currently working on →~~  
+Now I prefer to use my own git server and mostly stay within self-hosted servers.  
+FOSS is good, but my projects has become more private these days, for my personal needs.  
+I will still post publically useful codes now and then if I have a sharable one.    
 ---
 <!--
 **Mins0o/Mins0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,9 +11,9 @@
 ![Minsoo's github stats](https://memesoo.net/readme_stats?username=Mins0o&count_private=true&show_icons=true)
 ![Top Langs](https://memesoo.net/readme_stats/top-langs/?username=Mins0o&layout=compact)    
 ---
-#### 🖥️⌨️💼🏬🌆 I work at Samsung Electronics in Suwon. My current hobbies are **self hosting servers (including my own private LLM/SD servers)**, **trying various input device/methods**, **writing my own markdown journals**...  
+#### 🖥️⌨️💼🏬🌆 I work at Samsung Electronics in Suwon. My current hobbies are **self hosting servers (including my own private LLM/SD servers)**(alternativeto.net is god-ier), **trying various input device/methods**, **writing my own markdown journals** (self hosted git server)...  
   
-Arch, ~~NixOS~~, Debian, Fedora, Windows, MacOS user.
+Arch, ~~NixOS~~(gave me so much headache, will try again within 2025_Q2), Debian, Fedora, Windows, MacOS user.
 If you were to ask me which OS is the best, I would say all of them.  
 🪟Windows, :tokyo_tower:Arch, :apple:Mac, :snowflake:NixOS, :diamond_shape_with_a_dot_inside:TIZEN, everything.  
   
@@ -30,7 +33,9 @@ Bachelor : [KAIST](https://kaist.ac.kr/kr/) (2014 ~ 2022)
 - Club\_\_\_\_\:  MicroRobot Research Club [MR.](https://mr.kaist.ac.kr/) / RC Plane building club **ICARUS**  
 
 Career :  
- - [Samsung Electronics Co.,Ltd. \[AIFW Engineer\] (2022 ~ )](https://www.linkedin.com/in/memesoo-kang/)  
+ - [Samsung Electronics Co.,Ltd. \[AIFW Engineer\] (2022 ~ )](https://www.linkedin.com/in/memesoo-kang/)
+   - Computer Vision Application
+   - LLM FW
 ---
 ## Projects 
 [![EfficientFrontier](./Previews/efficientFrontier1.jpg)](https://github.com/Mins0o/Market_Prediction_Playground/tree/main/cpp_efficient_frontier/deliverable_results) 
@@ -87,4 +92,4 @@ Career :
 **Want to add these features to your GitHub page?**  
 [How to add a vanilla profile to your GitHub.](./CreateProfile.png)  
   
-[How to add the widgets to your GitHub page.](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md "This feature is based on an app that runs on the OP's personal server. His server runs into traffic problems sometimes. If the `demo` is not showing up well, the server must be down. Go to the Deploy on your own Vercel instance section and deploy your own app to use it independently. This will require you to fork or clone the repository. I cloned the repositry and pushed it as a private repo of mine to use the source independently.")  
+[How to add the widgets to your GitHub page.](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md "This feature is based on an app that runs on the OP's personal server. His server runs into traffic problems sometimes. If the `demo` is not showing up well, the server must be down. Go to the Deploy on your own Vercel instance section (or on your VPS or homelab) and deploy your own app to use it independently. This will require you to fork or clone the repository. I cloned the repositry and pushed it as a private repo of mine to use the source independently.")  
