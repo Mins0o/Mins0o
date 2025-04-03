@@ -1,9 +1,9 @@
 # 강민수 :kr: Minsoo Kang  
 ~~## Repositories that I am currently working on →~~  
-
 Now I prefer to use my own git server and mostly stay within self-hosted servers.  
 FOSS is good, but my projects has become more private these days, for my personal needs.  
 I will still post publically useful codes now and then if I have a sharable one.    
+
 ---
 <!--
 **Mins0o/Mins0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
