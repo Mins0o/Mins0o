@@ -12,7 +12,7 @@ I will still post publically useful codes now and then if I have a sharable one.
 ![Minsoo's github stats](https://memesoo.net/readme_stats?username=Mins0o&count_private=true&show_icons=true)
 ![Top Langs](https://memesoo.net/readme_stats/top-langs/?username=Mins0o&layout=compact)    
 ---
-#### 🖥️⌨️💼🏬🌆 I work at Samsung Electronics in Suwon. My current hobbies are **self hosting servers (including my own private LLM/SD servers)**([alternativeto.net](alternativeto.net) is a god-tier website for FOSS), **trying various input device/methods**, **writing my own markdown journals** (self hosted git server)...  
+#### 🖥️⌨️💼🏬🌆 I work at Samsung Electronics in Suwon. My current hobbies are **self hosting servers (including my own private LLM/SD servers)**([alternativeto.net](https://alternativeto.net) is a god-tier website for FOSS), **trying various input device/methods**, **writing my own markdown journals** (self hosted git server)...  
   
 Arch, ~~NixOS~~(gave me so much headache, will try again within 2025_Q2), Debian, Fedora, Windows, MacOS user.
 If you were to ask me which OS is the best, I would say all of them.  
