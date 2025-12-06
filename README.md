@@ -1,20 +1,17 @@
 # 강민수 :kr: Minsoo Kang  
 ~~## Repositories that I am currently working on →~~  
 Now I prefer to use my own git server and mostly stay within self-hosted servers.  
-FOSS is good, but my projects has become more private these days, for my personal needs.  
+FOSS is good, but my projects has become more private these days for my personal needs.  
 I will still post publically useful codes now and then if I have a sharable one.    
 
 ---
 <!--
 **Mins0o/Mins0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-![Minsoo's github stats](https://memesoo.net/readme_stats?username=Mins0o&count_private=true&show_icons=true)
-![Top Langs](https://memesoo.net/readme_stats/top-langs/?username=Mins0o&layout=compact)    
 ---
-#### 🖥️⌨️💼🏬🌆 I work at Samsung Electronics in Suwon. My current hobbies are **self hosting servers (including my own private LLM/SD servers)**([alternativeto.net](https://alternativeto.net) is a god-tier website for FOSS), **trying various input device/methods**, **writing my own markdown journals** (self hosted git server)...  
+#### 🖥️⌨️💼🏬🌆 I work at Samsung Electronics in Suwon. My current hobbies are **self hosting servers (including my own private LLM/SD servers)**([alternativeto.net](https://alternativeto.net) is a god-tier website for FOSS), **writing my own markdown journals** (self hosted git server), **drawing sketches** ...  
   
-Arch, ~~NixOS~~(gave me so much headache, will try again within 2025_Q2), Debian, Fedora, Windows, MacOS user.
+Arch, ~~NixOS~~(gives me so much headache), Debian, Fedora, Windows, MacOS user.
 If you were to ask me which OS is the best, I would say all of them.  
 🪟Windows, :tokyo_tower:Arch, :apple:Mac, :snowflake:NixOS, :diamond_shape_with_a_dot_inside:TIZEN, everything.  
   
