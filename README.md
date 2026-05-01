@@ -46,7 +46,7 @@ Career :
       - Tizen Actions - a tool to expose apps' apis and OS libraries/modules to LLMs
       - Tizen MCP - An MCP server to expose TV capabilities to LLMs
 ---
-## Projects (These are so old now...) 
+## Projects (Pre-AI Coding! - These are so old now...) 
 [![EfficientFrontier](./Previews/efficientFrontier1.jpg)](https://github.com/Mins0o/Market_Prediction_Playground/tree/main/cpp_efficient_frontier/deliverable_results) 
 [![Match_Leaderboard](./Previews/MS_Playground_Rummikub.gif)](https://ms-playground.club/rummikub/) 
 [![RL_Battle](./Previews/RL_Battle.gif)](https://github.com/Mins0o/CS492-Team-Project)
