@@ -13,16 +13,17 @@ I will still post publically useful codes now and then if I have a sharable one.
 * **self hosting servers (including my own private LLM/SD servers)**  
   * ([alternativeto.net](https://alternativeto.net) is a god-tier website for FOSS),  
 * **writing my own markdown journals** (self hosted git server),
+* **Learning raw hardware programming (embedded? STM32, EBAZ4205)
 * **Raising Plants (local build from source code - seeds!)**
 * ...  
   
-Arch, ~~NixOS~~(gives me so much headache), Debian, Fedora, Windows, MacOS user.  
+Arch, ~~NixOS(gives me so much headache)~~, Debian, Fedora, Windows, MacOS user.  
 If you were to ask me which OS is the best, I would say all of them.  
 🪟Windows, :tokyo_tower:Arch, :apple:Mac, :snowflake:NixOS, :diamond_shape_with_a_dot_inside:TIZEN, everything.  
   
 I wish to do more projects about:  
 1. Quantum Computing
-    * (I took a class about Quantum Computing in KAIST, and attended a Qiskit Hackathon)  
+    * (I took a class about Quantum Computing in KAIST, and participated in a Qiskit Hackathon)  
 3. Physical UIs (with MCU and MPUs)
     * (Was in a robot club, and did winter project in a PUI lab in KAIST)  
 5. Market Understanding
